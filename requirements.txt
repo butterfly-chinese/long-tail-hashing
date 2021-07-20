@@ -1,0 +1,5 @@
+PIL
+numpy
+torch
+torchvision
+loguru
